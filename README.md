@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Reference
+- Getting Started with Rails
+    - https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project
